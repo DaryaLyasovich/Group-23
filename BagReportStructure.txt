@@ -1,0 +1,12 @@
+ID
+Summary
+Description
+Steps to Reproduce
+Reproducibale
+Severity 
+Priority
+Workaround
+Attachments
+Actual result
+Expected Result
+Additional info
