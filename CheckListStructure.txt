@@ -1,0 +1,6 @@
+-go to the lamoda.by web sibe
+-press login
+- enter correct (valid) email
+- enter correct (valid) password
+-press login
+
